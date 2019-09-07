@@ -23,7 +23,7 @@ Tirsdag:
 
 Onsdag:
  - 03-wednesday-week3-Functions 
-	status (næsten fuldført)
+	status (næsten fuldført) Bemærk opgaverne er udarbejdet i Node.js og skrevet ind i Notepad++
  - 03-wednesday-week3-The JavaScript Array 
 	status (kun lige begyndt)
  
